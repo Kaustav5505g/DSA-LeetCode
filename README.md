@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |

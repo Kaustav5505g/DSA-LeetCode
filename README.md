@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0436-find-right-interval](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0436-find-right-interval) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0436-find-right-interval](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0436-find-right-interval) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |

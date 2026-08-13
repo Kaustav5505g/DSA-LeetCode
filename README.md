@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0436-find-right-interval) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0050-powx-n) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1920-build-array-from-permutation](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
 | ------- |

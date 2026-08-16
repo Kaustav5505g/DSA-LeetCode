@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0436-find-right-interval) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |

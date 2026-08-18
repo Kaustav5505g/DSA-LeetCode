@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |

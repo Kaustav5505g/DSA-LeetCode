@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0436-find-right-interval) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |

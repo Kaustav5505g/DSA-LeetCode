@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |

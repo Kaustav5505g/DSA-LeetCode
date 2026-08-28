@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0436-find-right-interval) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

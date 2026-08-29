@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

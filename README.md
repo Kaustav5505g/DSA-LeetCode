@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -194,4 +196,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

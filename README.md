@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 ## String
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |

@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2544-alternating-digit-sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

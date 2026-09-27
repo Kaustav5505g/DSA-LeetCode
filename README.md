@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Kaustav5505g/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
